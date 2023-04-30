@@ -1,0 +1,44 @@
+{
+    "coord":{
+        "lon":-83.0458,
+        "lat":42.3314
+    },
+    "weather":[
+        {
+            "id":804,
+            "main":"Clouds",
+            "description":"overcast clouds",
+            "icon":"04n"
+        }
+    ],
+    "base":"stations",
+    "main":{
+        "temp":283.81,
+        "feels_like":283.33,
+        "temp_min":281.55,
+        "temp_max":285.19,
+        "pressure":1000,
+        "humidity":92
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":4.63,
+        "deg":220,
+        "gust":8.23
+    },
+    "clouds":{
+        "all":100
+    },
+    "dt":1682827174,
+    "sys":{
+        "type":2,
+        "id":2006979,
+        "country":"US",
+        "sunrise":1682850541,
+        "sunset":1682900977
+    },
+    "timezone":-14400,
+    "id":4990729,
+    "name":"Detroit",
+    "cod":200
+}
